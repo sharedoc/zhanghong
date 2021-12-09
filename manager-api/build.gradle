@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+dependencies {
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main/java','../common-lib/src/main/java']
+        }
+    }
+}

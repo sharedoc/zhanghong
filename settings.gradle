@@ -1,0 +1,6 @@
+rootProject.name = 'zhanghong'
+include 'netty-notify'
+include 'client-api'
+include 'manager-api'
+include 'common-lib'
+
