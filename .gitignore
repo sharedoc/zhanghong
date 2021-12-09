@@ -1,12 +1,3 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-
 #Gradle beginning
 .gradle
 **/build/
@@ -36,4 +27,5 @@ IgnoreLexer.java~
 .gradle
 .DS_Store
 /verification
+.gitignore
 #Idea Ending
